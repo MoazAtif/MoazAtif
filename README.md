@@ -1,41 +1,78 @@
-<h1 align="center">Hi 👋, I'm Moaz Atif</h1>
-<h3 align="center">Back-End Developer (.NET)</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
-<p align="left"> 
+<h1 align="center">Hi 👋, I'm Moaz Atif</h1>
+<h3 align="center">Back-End Developer | ASP.NET Core | SQL Server Enthusiast</h3>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=MoazAtif&label=Profile%20views&color=0e75b6&style=flat" alt="MoazAtif" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🧑‍💻 About Me  
+🚀 Motivated .NET Backend Developer specialized in building scalable APIs and systems using **C#**, **ASP.NET Core**, and **SQL Server**.  
+💡 I love clean code, design patterns, and optimizing performance for real-world solutions.  
+🎯 Always learning and pushing the limits of backend architecture.
+
+---
+
+### 🛠️ Tech Stack  
 <p align="left">
-  <a href="https://www.linkedin.com/in/moaz-atif-a55065296" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 📂 Featured Projects
+
+- 🛒 **E-Commerce API** – Built with ASP.NET Core: Auth, Products, Orders, Admin Panel  
+- 🏨 **Hotel Management System** – MVC architecture using Entity Framework & SQL Server
+
+---
+
+### 🏆 Certifications
+- ICPC Participant – ECPC Qualifier
+
+---
+
+### 🌍 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/moaz-atif-a55065296" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:moazatif00@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="40" />
+  <a href="mailto:moazatif00@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://x.com/MoazAtif3" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  <a href="https://x.com/MoazAtif3" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/moaz.atif.608633/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  <a href="https://www.facebook.com/moaz.atif.608633" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
-</p>
+---
 
-<h3 align="left">GitHub Stats:</h3>
+### 📊 GitHub Stats
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoazAtif&show_icons=true&locale=en&layout=compact" alt="MoazAtif" />
 </p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MoazAtif&" alt="MoazAtif" />
+</p>
+
+---
+
+<p align="center">
+  <b>“Code is like humor. When you have to explain it, it’s bad.”</b><br>
+  <i>– Cory House</i>
 </p>
