@@ -39,7 +39,7 @@
 ---
 
 ### 🏆 Certifications
-- ICPC Participant – ECPC Qualifier
+- ICPC Participant 
 
 ---
 
