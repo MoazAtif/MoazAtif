@@ -34,7 +34,8 @@
 ### 📂 Featured Projects
 
 - 🛒 **E-Commerce API** – Built with ASP.NET Core: Auth, Products, Orders, Admin Panel  
-- 🏨 **Hotel Management System** – MVC architecture using Entity Framework & SQL Server
+- 🏨 **Hotel Management System** – MVC architecture using Entity Framework & SQL Server  
+- 📚 **Course Management System** – Built with ASP.NET Core MVC, includes authentication, CRUD for courses/instructors/students, and full SQL integration  
 
 ---
 
@@ -63,11 +64,13 @@
 ---
 
 ### 📊 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoazAtif&show_icons=true&locale=en&layout=compact" alt="MoazAtif" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoazAtif&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MoazAtif&" alt="MoazAtif" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoazAtif&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
 ---
