@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moaz Atif</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&width=600&lines=I'm+a+Back-End+Developer+%7C+.NET+%7C+SQL+Server" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&width=600&lines=I'm+a+Back-End+Developer;.NET+Developer;SQL+Server+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center"><strong>(صلِّ على سيدنا محمد) ﷺ</strong></p>
@@ -9,11 +9,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MoazAtif&label=Profile%20views&color=0e75b6&style=flat" alt="MoazAtif" />
 </p>
-
-
-
-
-
 
 ---
 
