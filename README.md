@@ -1,29 +1,29 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Moaz+Atif;Back-End+Developer+%7C+.NET+%7C+SQL+Server" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Moaz Atif</h1>
-<h3 align="center">Back-End Developer | ASP.NET Core | SQL Server Enthusiast</h3>
 
+<h3 align="center">Back-End Developer | ASP.NET Core | SQL Server Enthusiast</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MoazAtif&label=Profile%20views&color=0e75b6&style=flat" alt="MoazAtif" />
+  
+
 </p>
 
 ---
 
 ### 🧑‍💻 About Me  
-🚀 Motivated .NET Backend Developer specialized in building scalable APIs and systems using **C#**, **ASP.NET Core**, and **SQL Server**.  
-💡 I love clean code, design patterns, and optimizing performance for real-world solutions.  
-🎯 Always learning and pushing the limits of backend architecture.
+🚀 .NET Backend Developer specialized in building scalable APIs and management systems using **C#**, **ASP.NET Core**, and **SQL Server**.  
+💡 Passionate about clean architecture, database performance, and secure authentication.  
+🎯 Focused on delivering real-world solutions and constantly learning new technologies.
 
 ---
 
 ### 🛠️ Tech Stack  
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -34,19 +34,18 @@
 ### 📂 Featured Projects
 
 - 🛒 **E-Commerce API** – Built with ASP.NET Core: Auth, Products, Orders, Admin Panel  
-- 🏨 **Hotel Management System** – MVC architecture using Entity Framework & SQL Server  
-- 📚 **Course Management System** – Built with ASP.NET Core MVC, includes authentication, CRUD for courses/instructors/students, and full SQL integration  
+- 🏨 **Hotel Management System** – Built using ASP.NET Core MVC & Entity Framework  
+- 📚 **Course Management System** – Full ASP.NET MVC app for managing instructors, students, departments & results
 
 ---
 
 ### 🏆 Certifications
-- ICPC Participant 
+- 💻 ICPC Participant  
 
 ---
 
-### 🌍 Let's Connect
-
-<p align="left">
+### 🌐 Let's Connect
+<p align="center">
   <a href="https://www.linkedin.com/in/moaz-atif-a55065296" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -65,13 +64,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoazAtif&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoazAtif&layout=compact&theme=tokyonight" alt="langs" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoazAtif&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoazAtif&layout=compact&theme=tokyonight" width="48%"/>
+</div>
 
 ---
 
